@@ -1,0 +1,7 @@
+Font name: 
+
+TitilliumWeb Bold
+
+TitilliumWeb Light
+TitilliumWeb SemiBold
+TitilliumWeb Regular
